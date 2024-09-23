@@ -3,6 +3,7 @@ An app that shows some information about your hardware.
 
 It is showing a lot of information about your computer.
 
+It is using a nuget packet called Hardware.Info that you can see here : https://github.com/Jinjinov/Hardware.Info
 
 Soon ı will add a tab to show temperature readings.
 
